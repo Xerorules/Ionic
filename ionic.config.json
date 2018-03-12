@@ -1,0 +1,8 @@
+{
+  "name": "consultaapi",
+  "app_id": "2ca587a7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
